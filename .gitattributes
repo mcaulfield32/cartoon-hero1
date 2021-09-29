@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>  
+<head>
+	<title>Test page</title>
+</head>
+<body>
+	<h1>Hello Ryan Tobin</h1> 
+	<p>This website was created to show you how much you suck at fantsasy football</p>
+	<a href="https://google.com" target="_blank" title="Let's go to Google">Click me! I'm a link!</a>
+	<p>Your week 4 match up:<br>
+	MC kicking your fucking ass</p>
+	<img src="img/mc.jpeg">
+</body>
+</html>
